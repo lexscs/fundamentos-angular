@@ -13,6 +13,9 @@ import { RenderizandoListasComponent } from './renderizando-listas/renderizando-
 import { ComponentePersonalizadoComponent } from './componente-personalizado/componente-personalizado.component';
 import { ComponenentePaiComponent } from './componenente-pai/componenente-pai.component';
 import { ComponenenteFilhoComponent } from './componenente-filho/componenente-filho.component';
+import { ExemploServicos1Component } from './exemplo-servicos1/exemplo-servicos1.component';
+import { ExemploServicos2Component } from './exemplo-servicos2/exemplo-servicos2.component';
+import { LoggerService } from './logger.service';
 
 
 
@@ -28,6 +31,9 @@ import { ComponenenteFilhoComponent } from './componenente-filho/componenente-fi
     ComponentePersonalizadoComponent,
     ComponenentePaiComponent,
     ComponenenteFilhoComponent,
+    ExemploServicos1Component,
+    ExemploServicos2Component,
+    
     
     
   ],
