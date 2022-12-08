@@ -16,6 +16,9 @@ import { ComponenenteFilhoComponent } from './componenente-filho/componenente-fi
 import { ExemploServicos1Component } from './exemplo-servicos1/exemplo-servicos1.component';
 import { ExemploServicos2Component } from './exemplo-servicos2/exemplo-servicos2.component';
 import { LoggerService } from './logger.service';
+import { CicloDeVidaComponent } from './ciclo-de-vida/ciclo-de-vida.component';
+import { CicloDeVidaPaiComponent } from './ciclo-de-vida-pai/ciclo-de-vida-pai.component';
+import { CardComponent } from './card/card.component';
 
 
 
@@ -33,6 +36,9 @@ import { LoggerService } from './logger.service';
     ComponenenteFilhoComponent,
     ExemploServicos1Component,
     ExemploServicos2Component,
+    CicloDeVidaComponent,
+    CicloDeVidaPaiComponent,
+    CardComponent,
     
     
     
